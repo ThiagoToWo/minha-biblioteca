@@ -355,8 +355,7 @@ lógica - exercícios - iv: dedução no cálculo de predicados; Leônidas Hegen
 lógica de primeira ordem; Raymond M. Smullyan; Editora Unesp; 1a ed.; 2009; 188 pag.; R$ 20
 lógica de programação e algoritmos com javascript; Edécio Fernando Iepsen; Editora Novatec; 2a ed.; 2022; 350 pag.; R$ 60
 lógica de programação: a construção de algoritmos e estruturas de dados; André Luiz V. Forbellone e Henri F. Eberspächer; Editora Pearson; 4a ed.; 2022; 305 pag.; R$ 70
-lógica de programação: crie seus peimeiros programas usando javascript e html; Paulo Silveira e Adriano Almeida; Editora Casa do Código; 1a ed.; 2017; 180 pag.; R$ 50
-lógica de programação: crie seus peimeiros programas usando javascript e html; Paulo Silveira e Adriano Almeida; Editora Casa do Código; 1a ed.; 2017; 180 pag.; R$ 50
+lógica de programação: crie seus primeiros programas usando javascript e html; Paulo Silveira e Adriano Almeida; Editora Casa do Código; 1a ed.; 2017; 180 pag.; R$ 50
 lógica e jogos lógicos; Z. P. Dienes e E. W. Golding; Editora EPU; 3a ed.; 1976; 105 pag.; R$ 10
 lógica e álgebra de boole; Jacob Daghlian; Editora Atlas; 4a ed.; 1995; 167 pag.; R$ 20
 lógica formal e sua aplicação na argumentação matemática; Thiago de Oliveira Alves; Editora UFJF; 1a ed.; 2016; 99 pag.; R$ 0
@@ -548,3 +547,4 @@ mundos apocalíticos: histórias do fim dos tempos; Stephen King... [et al.]; 1a
 curso básico de astrofísica e cosmologia 1; Rainer Karl Madejsky; Editora UEFS; 1a ed.; 2014; 360 pag.; R$ 30
 curso básico de astrofísica e cosmologia 2; Rainer Karl Madejsky; Editora UEFS; 1a ed.; 2015; 370 pag.; R$ 30
 conto de fadas; Stephen King; Editora Suma; 1a ed.; 2022; 623 pag.; R$ 50
+foundation game design with html5 and javascript; Rex van der Spuy; Editora friendsofED; 1a ed.; 2012; 732 pag.; R$ 70
