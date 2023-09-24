@@ -541,10 +541,13 @@ curso básico de desenho: mangá; João Costa; Editora Camelot; 1a ed.; 2022; 16
 resumo; Anna Rachel Machado... [et al.]; Editora Parábola; 1a ed.; 2004; 69 pag.; R$ 9
 o hobbit; J. R. R. Tolkien; Editora Harper Collins; 1a ed.; 2022; 331 pag.; R$ 40
 curso de linguística geral; Ferdinand de Saussure; Editora Parábola; 1a ed.; 2021; 391 pag.; R$ 50
-curso básico de desenho; João Costa; Editora Camelot; 1a ed.; 2022; 162 pag.; R$ 20
-o grande livro do excel: intermediário e avançado; Editora Camelot; 1a ed.; 2021; 130 pag.; R$ 20
-mundos apocalíticos: histórias do fim dos tempos; Stephen King... [et al.]; 1a ed.; 2019; 496 pag.; R$ 20
+curso básico de desenho; Henrique Slvério; Editora Camelot; 1a ed.; 2022; 162 pag.; R$ 20
+o grande livro do excel: intermediário e avançado; Robério Gonçalves; Editora Camelot; 1a ed.; 2021; 130 pag.; R$ 20
+mundos apocalíticos: histórias do fim dos tempos; Stephen King... [et al.]; Editora Planeta; 1a ed.; 2019; 496 pag.; R$ 20
 curso básico de astrofísica e cosmologia 1; Rainer Karl Madejsky; Editora UEFS; 1a ed.; 2014; 360 pag.; R$ 30
 curso básico de astrofísica e cosmologia 2; Rainer Karl Madejsky; Editora UEFS; 1a ed.; 2015; 370 pag.; R$ 30
 conto de fadas; Stephen King; Editora Suma; 1a ed.; 2022; 623 pag.; R$ 50
 foundation game design with html5 and javascript; Rex van der Spuy; Editora friendsofED; 1a ed.; 2012; 732 pag.; R$ 70
+foundation game design with html5 and javascript; Rex van der Spuy; Editora friendsofED; 1a ed.; 2012; 732 pag.; R$ 180
+o homem e as línguas; Fraderick Bodmer; KÍrion; 1a ed.; 2021; 829 pag.; R$ 120
+nature method: selected short stories; Arthur M. Jensen; Editora The Nature Method Institutes; 1a ed.; 2023; 293 pag.; R$ 500
