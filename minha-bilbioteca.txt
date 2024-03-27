@@ -554,3 +554,5 @@ nature method: selected short stories; Arthur M. Jensen; Editora The Nature Meth
 matemática com python: um guia prático.; Guilherme A. Barucke Marcondes; Editora Novatec; 1a ed.; 2018; 191 pag.; R$ 50
 elementos de cálculo numérico; Dirceu Douglas Salvetti; Editora Companhia Editora Nacional; 1a ed.; 1973; 122 pag.; R$ 20
 para leigos, economia; Peter Antonioni e Sean Masaki Flynn; Editora Alta Books; 2a ed.; 2012; 392 pag.; R$ 35
+mathematical handbook: elementary mathematics; M. Vygodsky; Editora Mir Publishers; 4a ed.; 1984; 422 pag.; R$ 1000
+how to calculate quickly; Henry Sticker; Editora Dover Publications; 1a ed.; 1955; 185 pag.; R$ 35
