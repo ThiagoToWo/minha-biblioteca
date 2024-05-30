@@ -520,9 +520,9 @@ trigonometria números complexos; Manfredo Perdigão do Carmo... [et al.]; Edito
 troque gordura por músculo; Joe Kita; Editora Abril; 1a ed.; 2009; 96 pag.; R$ 15
 truques e mágicas incríveis; Norm Barnhart; Editora Escala; 1a ed.; 2012; 109 pag.; R$ 10
 técnicas especiais de kung fu para briga de rua; Francisco d'Urbano e Milton Brizola; Editora Ediouro; 1a ed.; 1989; 104 pag.; R$ 20
-tópicos de fisica vol. 1; Gualter, Newton e Helou; Editora Saraiva; 21a ed.; 2012; 496 pag.; R$ 50
-tópicos de fisica vol. 2; Gualter, Newton e Helou; Editora Saraiva; 19a ed.; 2012; 480 pag.; R$ 50
-tópicos de fisica vol. 3; Gualter, Newton e Helou; Editora Saraiva; 18a ed.; 2012; 400 pag.; R$ 50
+tópicos de física vol. 1; Gualter, Newton e Helou; Editora Saraiva; 21a ed.; 2012; 496 pag.; R$ 50
+tópicos de física vol. 2; Gualter, Newton e Helou; Editora Saraiva; 19a ed.; 2012; 480 pag.; R$ 50
+tópicos de física vol. 3; Gualter, Newton e Helou; Editora Saraiva; 18a ed.; 2012; 400 pag.; R$ 50
 tópicos de física vol. 1: resolução dos exercícios; Gualter, Newton e Helou; Editora Saraiva; a ed.; ; 176 pag.; R$ 25
 tópicos de física vol. 2: resolução dos exercícios; Gualter, Newton e Helou; Editora Saraiva; a ed.; ; 176 pag.; R$ 25
 tópicos de física vol. 3: resolução dos exercícios; Gualter, Newton e Helou; Editora Saraiva; a ed.; ; 128 pag.; R$ 25
@@ -558,3 +558,5 @@ mathematical handbook: elementary mathematics; M. Vygodsky; Editora Mir Publishe
 how to calculate quickly; Henry Sticker; Editora Dover Publications; 1a ed.; 1955; 185 pag.; R$ 35
 coleção schaum estatística aplicada a economia e administração; Leonard J. Kazmier; Editora McGraw-Hill; 1a ed.; 1982; 376 pag.; R$ 30
 método moderno de tupi antigo; Eduardo de Almeida Navarro; Editora Global; 3a ed.; 2006; 463 pag.; R$ 75
+bruce lee's fighting method: the complete edition; Bruce Lee e M. Uyehara; Editora Black Belt Books; 1a ed.; 2013; 483 pag.; R$ 300
+mecânica dos solos e suas apliações 1; Homero Pinto Caputo; Editora LTC; 3a ed.; 1975; 242 pag.; R$ 10
